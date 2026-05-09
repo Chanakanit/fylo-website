@@ -55,5 +55,8 @@
   .feature-description {
     @apply max-w-md;
   }
+  .btn-primary {
+    @apply rounded-full bg-accent-cyan hover:bg-accent-blue py-2
+  }
 }
  
