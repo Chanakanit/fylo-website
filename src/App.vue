@@ -1,7 +1,7 @@
 <script setup>
 import Feature from './components/Feature.vue';
 import Hero from './components/Hero.vue';
-import NavBar from './components/Navbar.vue'
+import NavBar from './components/NavBar.vue'
 import Productive from './components/Productive.vue';
 import FAQ from './components/FAQ.vue';
 import Testimonial from './components/Testimonial.vue';
